@@ -14,12 +14,12 @@
     >
       <div class="wrapper-name w-96">
         <div class="square xyz-in" xyz="fade duration-15 delay-2 flip-up-25% up-100%">
-          <h1 class="px-2 py-6 text-4xl uppercase text-white">Gerald Ramos</h1>
+          <h1 class="px-2 py-6 text-4xl uppercase text-white">Lemuel Catipay</h1>
         </div>
         <hr class="border-white border-solid border-1" />
         <div class="square xyz-in" xyz="fade duration-15 delay-2 flip-down-25% down-100%">
           <p class="px-2 py-4 text-2xl text-center text-white">
-            Applications Programmer
+            3d Artist
           </p>
         </div>
       </div>
