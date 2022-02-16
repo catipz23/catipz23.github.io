@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy" : "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "dependencies": {
     "@animxyz/core": "^0.6.4",
