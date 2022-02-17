@@ -3,6 +3,7 @@
   <Description />
   <Experience :career="data.career" />
   <Skills :skills="data.skills" />
+  <Works :works="data.works" />
   <Footer />
 </template>
 
@@ -14,6 +15,7 @@ import Description from "./components/Description.vue";
 import Experience from "./components/Experience.vue";
 import Skills from "./components/Skills.vue";
 import Footer from "./components/Footer.vue";
+import Works from "./components/Works.vue"
 import json from "./data/data-resource.json";
 
 export default {
@@ -24,6 +26,7 @@ export default {
     Experience,
     Skills,
     Footer,
+    Works,
   },
   data() {
     return {

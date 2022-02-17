@@ -12,7 +12,7 @@ export default {
     name: "Photo",
     methods: {
         getImageUrl() {
-            return require('../assets/img/photo.jpg');
+            return require('../assets/img/photo.png');
         },
     },
 }

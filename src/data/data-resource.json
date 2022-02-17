@@ -29,64 +29,110 @@
     },
     "skills": [
         {
-            "name": "Python",
-            "filename": "python.svg"
-        },
-        {
-            "name": "Jupyter Notebook",
-            "filename": "jupyter.svg"
-        },
-        {
-            "name": "Vue",
-            "filename": "vue.svg"
-        },
-        {
-            "name": "MsSql",
-            "filename": "mssql.svg"
-        },
-        {
-            "name": "MySql",
-            "filename": "mysql.svg"
-        },
-        {
-            "name": "Php",
-            "filename": "php.svg"
-        },
-        {
-            "name": "Unreal Engine",
-            "filename": "unreal-engine.svg"
-        },
-        {
             "name": "Blender",
             "filename": "blender.svg"
         },
         {
-            "name": "Vb.Net",
-            "filename": "vbnet.svg"
+            "name": "Photoshop",
+            "filename": "photoshop.svg"
         },
         {
-            "name": "Tailwind",
-            "filename": "tailwindcss.svg"
+            "name": "Illustrator",
+            "filename": "illustrator.svg"
         },
         {
-            "name": "Raspberry Pi",
-            "filename": "raspberrypi.svg"
+            "name": "Microsoft Office",
+            "filename": "microsoft.svg"
         },
         {
-            "name": "Git",
-            "filename": "git.svg"
+            "name": "Corel Draw",
+            "filename": "corel.svg"
+        }
+    ],
+    "works": [
+        {
+            "name": "AXS",
+            "filename": "axs.jpg"
         },
         {
-            "name": "Linux",
-            "filename": "linux.svg"
+            "name": "Beatrice and Brutus",
+            "filename": "Beatrice-and-Brutus.jpg"
         },
         {
-            "name": "HTML",
-            "filename": "html.svg"
+            "name": "Bottle Water Dripped",
+            "filename": "bottle-water-dripped.jpg"
         },
         {
-            "name": "CSS",
-            "filename": "css.svg"
+            "name": "Bunny Family Father",
+            "filename": "bunny-family-father.jpg"
+        },
+        {
+            "name": "Bunny Family Mother",
+            "filename": "bunny-family-mother.jpg"
+        },
+        {
+            "name": "Candy Snowman",
+            "filename": "candy-snowman.jpg"
+        },
+        {
+            "name": "Carrot Christmas Tree",
+            "filename": "carrot-christmas-tree.jpg"
+        },
+        {
+            "name": "Chevrolet",
+            "filename": "chevrolet.jpg"
+        },
+        {
+            "name": "Chilli Christmas Tree",
+            "filename": "chilli-christmas-tree.jpg"
+        },
+        {
+            "name": "China Goat Decor",
+            "filename": "china-goat-decor.jpg"
+        },
+        {
+            "name": "Drag Me On",
+            "filename": "drag-me-on.jpg"
+        },
+        {
+            "name": "Elephant Bird",
+            "filename": "elephant-bird.jpg"
+        },
+        {
+            "name": "Frankenstein Up",
+            "filename": "frankenstein-up.jpg"
+        },
+        {
+            "name": "Freakshow Carousel",
+            "filename": "freakshow-carousel.jpg"
+        },
+        {
+            "name": "Lamb Harvest Egg",
+            "filename": "lamb-harvest-egg.jpg"
+        },
+        {
+            "name": "Lego Land Lord Vampyre",
+            "filename": "Lego-Land-Lord-Vampyre.jpg"
+        },
+        {
+            "name": "Papea Parc",
+            "filename": "papea-parc.jpg"
+        },
+        {
+            "name": "snowman cart playing",
+            "filename": "snowman-cart-playing.jpg"
+        },
+        {
+            "name": "Spider Pumpkin",
+            "filename": "spider-pumpkin.jpg"
+        },
+        {
+            "name": "Spider Pumpkin 2",
+            "filename": "spider-pumpkin-2.jpg"
+        },
+        {
+            "name": "Unit Rev Pers",
+            "filename": "unit-rev-pers.jpg"
         }
     ]
 }
